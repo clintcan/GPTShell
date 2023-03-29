@@ -1,5 +1,5 @@
 # GPTShell
-This acts as a shell prompt, where you can either type linux commands or with a switch ask chatGPT a question and puts out a response on the screen.  Some code is based off the documentation of OpenAI API, as when experimented if chatGPT does correct implementation of the API fails in this regard (used GPT-4 as an experiment).
+This acts as a shell prompt, where you can either type linux commands or with a switch ask chatGPT a question and puts out a response on the screen.  Some code is based off the documentation of OpenAI API, as when experimented, if chatGPT does correct implementation of the API, and somewhat fails in this regard (used GPT-4 as an experiment and the API call created from the prompt needs adjustment).
 
 ## How to compile
 GPTShell requires the libcurl and rapidjson libraries as dependencies.  On CentOS:
